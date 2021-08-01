@@ -158,6 +158,8 @@ svgpath_to_png $themename/mouse.svg $themename '120x120'
 svgpath_to_png $themename/selection_big.svg $themename '144x144'
 
 svgpath_to_png $themename/selection_small.svg $themename '64x64'
+
+mv $themename/icons/selection* $themename/
 printf "done\n"
 
 # Generate background
