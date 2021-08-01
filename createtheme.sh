@@ -144,7 +144,7 @@ if [[ $hidebadges != true ]]; then
 
 	if [[ $hideinternalbadge == true ]]; then
 			rm $themename/icons/vol_internal.png
-			cp $source/transparent.png $themename/icons/vol_internal.png
+			cp $source/vol_internal_alt.png $themename/icons/vol_internal.png
 	fi	
 fi
 
