@@ -231,16 +231,16 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.32361327"
-     inkscape:cx="-516.04805"
-     inkscape:cy="398.62395"
+     inkscape:zoom="1.4521773"
+     inkscape:cx="184.89478"
+     inkscape:cy="400.08889"
      inkscape:document-units="px"
-     inkscape:current-layer="g4016"
+     inkscape:current-layer="text5326"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="0"
-     inkscape:window-y="47"
+     inkscape:window-width="939"
+     inkscape:window-height="1027"
+     inkscape:window-x="967"
+     inkscape:window-y="39"
      inkscape:window-maximized="0"
      units="mm"
      inkscape:showpageshadow="false"
@@ -327,17 +327,14 @@
                            id="path3983"
                            d="m 186.32408,623.80164 v 5.7179 h 13.59933 c 3.19444,0 5.98434,-1.19141 8.24845,-3.49642 h 0.0193 c 1.92561,-1.9784 3.04899,-4.34427 3.32257,-7.01215 v -3.2453 h -5.77585 v 2.22149 c 0,3.18165 -3.023,5.85312 -6.91558,5.85312 l -12.49824,-0.0386 z"
                            style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.607;fill:#898989;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.618151;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" />
-                        <text
-                           xml:space="preserve"
-                           style="font-size:19.5341px;line-height:1.25;font-family:'Hurmit Nerd Font';-inkscape-font-specification:'Hurmit Nerd Font';text-align:end;letter-spacing:0px;text-anchor:end;fill:#ecf0f1;fill-opacity:0.945098;stroke-width:0.30522"
-                           x="162.05957"
-                           y="640.89697"
-                           id="text5326"><tspan
-                             sodipodi:role="line"
-                             id="tspan5324"
-                             style="fill:#ecf0f1;fill-opacity:0.945098;stroke-width:0.30522"
-                             x="162.05957"
-                             y="640.89697">$</tspan></text>
+                        <g
+                           aria-label="$"
+                           id="text5326"
+                           style="font-size:19.5341px;line-height:1.25;font-family:'Hurmit Nerd Font';-inkscape-font-specification:'Hurmit Nerd Font';text-align:end;letter-spacing:0px;text-anchor:end;fill:#ecf0f1;fill-opacity:0.945098;stroke-width:0.30522">
+                          <path
+                             d="m 155.16406,626.2464 v 1.75807 c -2.22689,0.0391 -3.63334,0 -3.63334,3.26219 0,3.18406 1.79713,3.12546 3.63334,3.18406 v 2.93011 c -1.21112,-0.0391 -1.87527,0 -1.87527,-1.50412 h -1.75807 c 0,3.26219 1.40645,3.22313 3.63334,3.26219 v 1.75807 h 1.75807 v -1.75807 c 2.22689,-0.0391 3.61381,0 3.61381,-3.26219 0,-3.18406 -1.77761,-3.12546 -3.61381,-3.18406 v -2.93011 c 1.21111,0.0391 1.85574,0.58602 1.85574,1.50412 h 1.75807 c 0,-3.26219 -1.38692,-3.22312 -3.61381,-3.26219 v -1.75807 z m 0,3.51614 v 2.93011 c -1.21112,-0.0391 -1.87527,0 -1.87527,-1.42599 0,-1.50412 0.66415,-1.46506 1.87527,-1.50412 z m 1.75807,7.61829 v -2.93011 c 1.21111,0.0391 1.85574,0 1.85574,1.42599 0,1.50412 -0.64463,1.46506 -1.85574,1.50412 z"
+                             id="path79" />
+                        </g>
                       </g>
                     </g>
                   </g>

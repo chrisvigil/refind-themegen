@@ -29,15 +29,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3793463"
-     inkscape:cx="315.36678"
+     inkscape:cx="315.72927"
      inkscape:cy="269.69297"
      inkscape:document-units="px"
-     inkscape:current-layer="g4077"
+     inkscape:current-layer="text108133"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="0"
-     inkscape:window-y="47"
+     inkscape:window-width="939"
+     inkscape:window-height="1027"
+     inkscape:window-x="967"
+     inkscape:window-y="39"
      inkscape:window-maximized="0"
      units="mm"
      inkscape:showpageshadow="true"
@@ -100,17 +100,14 @@
                    id="path4820"
                    inkscape:connector-curvature="0"
                    sodipodi:nodetypes="cccsccccccccccccccccccccccccscccccccccsc" />
-                <text
-                   xml:space="preserve"
-                   style="font-size:77.69px;line-height:1.25;font-family:'Hurmit Nerd Font';-inkscape-font-specification:'Hurmit Nerd Font';text-align:end;letter-spacing:0px;text-anchor:end;stroke-width:1.21391;fill:#ecf0f1;fill-opacity:1"
-                   x="254.72412"
-                   y="296.77316"
-                   id="text108133"><tspan
-                     sodipodi:role="line"
-                     id="tspan108131"
-                     style="font-size:77.69px;stroke-width:1.21391;fill:#ecf0f1;fill-opacity:1"
-                     x="254.72412"
-                     y="296.77316">$</tspan></text>
+                <g
+                   aria-label="$"
+                   id="text108133"
+                   style="font-size:77.69px;line-height:1.25;font-family:'Hurmit Nerd Font';-inkscape-font-specification:'Hurmit Nerd Font';text-align:end;letter-spacing:0px;text-anchor:end;fill:#ecf0f1;stroke-width:1.21391">
+                  <path
+                     d="m 227.29965,238.50566 v 6.9921 c -8.85666,0.15538 -14.45034,0 -14.45034,12.97423 0,12.66347 7.14748,12.4304 14.45034,12.66347 v 11.6535 c -4.81678,-0.15538 -7.45824,0 -7.45824,-5.98213 h -6.9921 c 0,12.97423 5.59368,12.81885 14.45034,12.97423 v 6.9921 h 6.9921 v -6.9921 c 8.85666,-0.15538 14.37265,0 14.37265,-12.97423 0,-12.66347 -7.06979,-12.4304 -14.37265,-12.66347 v -11.6535 c 4.81678,0.15538 7.38055,2.3307 7.38055,5.98213 h 6.9921 c 0,-12.97423 -5.51599,-12.81885 -14.37265,-12.97423 v -6.9921 z m 0,13.9842 v 11.6535 c -4.81678,-0.15538 -7.45824,0 -7.45824,-5.67137 0,-5.98213 2.64146,-5.82675 7.45824,-5.98213 z m 6.9921,30.2991 v -11.6535 c 4.81678,0.15538 7.38055,0 7.38055,5.67137 0,5.98213 -2.56377,5.82675 -7.38055,5.98213 z"
+                     id="path17" />
+                </g>
               </g>
             </g>
           </g>

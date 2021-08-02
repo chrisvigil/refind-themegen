@@ -246,15 +246,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.92757878"
-     inkscape:cx="-90.558346"
+     inkscape:cx="-90.019308"
      inkscape:cy="210.22473"
      inkscape:document-units="px"
-     inkscape:current-layer="g6354"
+     inkscape:current-layer="text102382"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="0"
-     inkscape:window-y="47"
+     inkscape:window-width="939"
+     inkscape:window-height="1027"
+     inkscape:window-x="967"
+     inkscape:window-y="39"
      inkscape:window-maximized="0"
      units="mm"
      inkscape:showpageshadow="false"
@@ -334,18 +334,15 @@
                            id="path3316"
                            inkscape:connector-curvature="0"
                            sodipodi:nodetypes="ccscccccccscscscccccccccccscscscccccccccsscsssccccccccccsscccccccccccssccccccsccccccscscccccsscccccs" />
-                        <text
-                           xml:space="preserve"
-                           style="font-size:7.1926px;line-height:1.25;font-family:'Hurmit Nerd Font';-inkscape-font-specification:'Hurmit Nerd Font';text-align:end;letter-spacing:0px;text-anchor:end;stroke-width:0.112384;fill:#ecf0f1;fill-opacity:1"
-                           x="392.90976"
-                           y="952.86676"
+                        <g
+                           aria-label="$"
+                           transform="scale(0.99298142,1.0070682)"
                            id="text102382"
-                           transform="scale(0.99298142,1.0070682)"><tspan
-                             sodipodi:role="line"
-                             id="tspan102380"
-                             style="stroke-width:0.112384;fill:#ecf0f1;fill-opacity:1"
-                             x="392.90976"
-                             y="952.86676">$</tspan></text>
+                           style="font-size:7.1926px;line-height:1.25;font-family:'Hurmit Nerd Font';-inkscape-font-specification:'Hurmit Nerd Font';text-align:end;letter-spacing:0px;text-anchor:end;fill:#ecf0f1;stroke-width:0.112384">
+                          <path
+                             d="m 390.37078,947.47231 v 0.64733 c -0.81996,0.0144 -1.33782,0 -1.33782,1.20117 0,1.17239 0.66172,1.15081 1.33782,1.17239 v 1.07889 c -0.44594,-0.0144 -0.69049,0 -0.69049,-0.55383 h -0.64733 c 0,1.20117 0.51786,1.18678 1.33782,1.20117 v 0.64733 h 0.64734 v -0.64733 c 0.81995,-0.0144 1.33063,0 1.33063,-1.20117 0,-1.17239 -0.65453,-1.15081 -1.33063,-1.17239 v -1.07889 c 0.44594,0.0144 0.68329,0.21578 0.68329,0.55383 h 0.64734 c 0,-1.20117 -0.51068,-1.18678 -1.33063,-1.20117 v -0.64733 z m 0,1.29467 v 1.07889 c -0.44594,-0.0144 -0.69049,0 -0.69049,-0.52506 0,-0.55383 0.24455,-0.53945 0.69049,-0.55383 z m 0.64734,2.80511 v -1.07889 c 0.44594,0.0144 0.68329,0 0.68329,0.52506 0,0.55383 -0.23735,0.53945 -0.68329,0.55383 z"
+                             id="path79" />
+                        </g>
                       </g>
                     </g>
                   </g>

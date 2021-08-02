@@ -87,15 +87,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.6316685"
-     inkscape:cx="34.760692"
-     inkscape:cy="71.032718"
+     inkscape:cx="88.844873"
+     inkscape:cy="71.032717"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="text4096"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="0"
-     inkscape:window-y="47"
+     inkscape:window-width="939"
+     inkscape:window-height="1027"
+     inkscape:window-x="967"
+     inkscape:window-y="39"
      inkscape:window-maximized="0"
      units="px"
      inkscape:showpageshadow="true"
@@ -131,15 +131,13 @@
        fill="#1793d1"
        id="path9"
        style="display:inline;fill:#ecf0f1;fill-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-size:18.6667px;line-height:1.25;font-family:'Hurmit Nerd Font';-inkscape-font-specification:'Hurmit Nerd Font';text-align:end;letter-spacing:0px;text-anchor:end;fill:#ecf0f1;fill-opacity:0.992157"
-       x="232.87033"
-       y="106.52681"
-       id="text4096"><tspan
-         sodipodi:role="line"
-         id="tspan4094"
-         x="232.87033"
-         y="106.52681">$</tspan></text>
+    <g
+       aria-label="$"
+       id="text4096"
+       style="font-size:18.6667px;line-height:1.25;font-family:'Hurmit Nerd Font';-inkscape-font-specification:'Hurmit Nerd Font';text-align:end;letter-spacing:0px;text-anchor:end;fill:#ecf0f1;fill-opacity:0.992157">
+      <path
+         d="m 226.28101,92.526784 v 1.680003 c -2.128,0.03733 -3.47201,0 -3.47201,3.117339 0,3.042674 1.71734,2.986674 3.47201,3.042674 v 2.8 c -1.15734,-0.0373 -1.792,0 -1.792,-1.43733 H 222.809 c 0,3.11734 1.34401,3.08 3.47201,3.11734 v 1.68 h 1.68 v -1.68 c 2.12801,-0.0373 3.45334,0 3.45334,-3.11734 0,-3.042674 -1.69867,-2.986674 -3.45334,-3.042674 V 95.88679 c 1.15734,0.03733 1.77334,0.560001 1.77334,1.437336 h 1.68 c 0,-3.117339 -1.32533,-3.080005 -3.45334,-3.117339 v -1.680003 z m 0,3.360006 v 2.800006 c -1.15734,-0.03733 -1.792,0 -1.792,-1.36267 0,-1.437336 0.63466,-1.400002 1.792,-1.437336 z m 1.68,7.28001 v -2.8 c 1.15734,0.0373 1.77334,0 1.77334,1.36267 0,1.43733 -0.616,1.4 -1.77334,1.43733 z"
+         id="path834" />
+    </g>
   </g>
 </svg>

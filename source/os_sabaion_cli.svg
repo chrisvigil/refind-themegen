@@ -232,10 +232,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.150522"
-     inkscape:cx="67.360729"
+     inkscape:cx="68.229899"
      inkscape:cy="203.38594"
      inkscape:document-units="px"
-     inkscape:current-layer="g6445"
+     inkscape:current-layer="text33641"
      showgrid="false"
      inkscape:window-width="939"
      inkscape:window-height="1027"
@@ -310,17 +310,14 @@
                        id="path4191"
                        inkscape:connector-curvature="0"
                        sodipodi:nodetypes="asssaaassaaaassssaaassssaassssssaaassaa" />
-                    <text
-                       xml:space="preserve"
-                       style="font-size:60px;line-height:1.25;font-family:'Hurmit Nerd Font';-inkscape-font-specification:'Hurmit Nerd Font';text-align:end;letter-spacing:0px;text-anchor:end;fill:#ecf0f1;fill-opacity:0.952941;stroke-width:0.9375"
-                       x="401.0466"
-                       y="520.87659"
-                       id="text33641"><tspan
-                         sodipodi:role="line"
-                         id="tspan33639"
-                         style="fill:#ecf0f1;fill-opacity:0.952941;stroke-width:0.9375"
-                         x="401.0466"
-                         y="520.87659">$</tspan></text>
+                    <g
+                       aria-label="$"
+                       id="text33641"
+                       style="font-size:60px;line-height:1.25;font-family:'Hurmit Nerd Font';-inkscape-font-specification:'Hurmit Nerd Font';text-align:end;letter-spacing:0px;text-anchor:end;fill:#ecf0f1;fill-opacity:0.952941;stroke-width:0.937499">
+                      <path
+                         d="m 379.86671,475.87659 v 5.4 c -6.84,0.12 -11.16,0 -11.16,10.02 0,9.78 5.52,9.6 11.16,9.78 v 9 c -3.72,-0.12 -5.76,0 -5.76,-4.62 h -5.4 c 0,10.02 4.32,9.9 11.16,10.02 v 5.4 h 5.4 v -5.4 c 6.84,-0.12 11.1,0 11.1,-10.02 0,-9.78 -5.46,-9.6 -11.1,-9.78 v -9 c 3.72,0.12 5.7,1.8 5.7,4.62 h 5.4 c 0,-10.02 -4.26,-9.9 -11.1,-10.02 v -5.4 z m 0,10.8 v 9 c -3.72,-0.12 -5.76,0 -5.76,-4.38 0,-4.62 2.04,-4.5 5.76,-4.62 z m 5.4,23.4 v -9 c 3.72,0.12 5.7,0 5.7,4.38 0,4.62 -1.98,4.5 -5.7,4.62 z"
+                         id="path75" />
+                    </g>
                   </g>
                 </g>
               </g>
