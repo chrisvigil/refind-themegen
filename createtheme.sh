@@ -2,7 +2,9 @@
 ############################################################
 # createtheme.sh
 # 
-# Generates a refind theme
+# Generates a refind theme.
+#
+# Requires bc, imagemagick and librsvg
 ############################################################
 
 
@@ -41,11 +43,11 @@ olddarkcolor=898989
 newbasecolor=5d8147
 newdarkcolor=$($source/changecolorbrightness.sh $newbasecolor 0.65)
 
-# If set to false will use default black and white background
+# If set to false will use default grayscale background
 colorbg=true
 
-# Sets the base color for the background, IF not set will generate one from
-# the newbasecolor
+# Sets the base color for the background, If variable is not set a color will
+# be generated based on the icon base color
 # bgcolor=$newbasecolor
 
 
