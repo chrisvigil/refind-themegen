@@ -170,7 +170,7 @@ if [[ "$resolution" == "0 0" ]]; then
 		bgsize=1920x1080
 else
 		bgsize=$(echo $resolution | awk '{print $1}')x
-		bgsize=$bgsize$(echo $resolution | awk '$print $2}')
+		bgsize=$bgsize$(echo $resolution | awk '${print $2}')
 fi
 
 if [[ $colorbg == true ]]; then
